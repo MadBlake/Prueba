@@ -1,4 +1,5 @@
 <?php
+# Esto es un comentario de modificacion del archivo para git
 class Planeta {
     // Instancias de cada planeta
     private static $planetas = array();
